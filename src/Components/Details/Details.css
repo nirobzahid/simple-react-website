@@ -1,0 +1,24 @@
+.usersBox{
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  padding-bottom: 5px;
+}
+.name{
+  color: blue;
+  font-weight: 400;
+}
+.userImages{
+  height: 200px;
+  width: 300px;
+}
+.btn{
+  color: white;
+background-color: blue;
+height: 40px;
+width: 80px;
+border-radius: 5px;
+border: 1px solid gray;
+cursor: pointer;
+}

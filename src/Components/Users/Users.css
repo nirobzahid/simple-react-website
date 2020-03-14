@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+}
+.user{
+  width: 70%;
+  margin-left: 20px;
+  margin-right: 5px;
+  border: 1px solid lightgray;
+}
+.cart{
+  text-align: center;
+}
